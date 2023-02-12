@@ -1,6 +1,6 @@
 _pad = "_"
 _eos = "<eos>"
-_characters = 'abcdefghijklmnopqrstuvwxyz!\'\"(),-.:;? '
+_characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzАБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЪЬЫЭЮЯабвгдежзиклмнопрстуфхцчшщъьыэюя!\'\"(),-.:;?  '
 
 # Prepend "@" to ARPAbet symbols to ensure uniqueness (some are the same as uppercase letters):
 _arpabet = [
